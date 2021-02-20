@@ -1,0 +1,41 @@
+.quantity{
+
+    width: 40%;
+    margin-left: 11%;
+    margin-top: 5%;
+
+    
+}
+
+.quantity h5{
+    margin-bottom: 5%;
+    margin-left: -25%;
+}
+
+
+.inventory{
+    width: 40%;
+    margin-left: 45%;
+    margin-top: -5%;
+    
+}
+
+.inventory h5{
+
+    margin-bottom: 9.5%;
+    margin-left: -11%;
+}
+
+.challan{
+
+    width: 40%;
+    margin-left: 11%;
+    margin-top: 5%;
+
+    
+}
+
+.challan h5{
+    margin-bottom: 5.5%;
+    margin-left: -30%;
+}
